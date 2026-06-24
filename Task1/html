@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile App UX Case Study</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <div class="circle">1</div>
+        <h1>Mobile App UX Case Study</h1>
+    </div>
+
+    <div class="content">
+        <h2>Goal</h2>
+        <p>Design a complete UX case study for a mobile app (e.g., task manager, fitness tracker).</p>
+
+        <h2>Requirements</h2>
+        <ul>
+            <li>User research summary and personas</li>
+            <li>User flows and wireframes (low & mid fidelity)</li>
+            <li>High-fidelity prototype (Figma/Adobe XD) with 4–6 screens</li>
+        </ul>
+
+        <h2>Deliverables</h2>
+        <ol>
+            <li>Figma/Adobe XD link (prototype)</li>
+            <li>PDF summary (case study)</li>
+        </ol>
+    </div>
+
+</div>
+
+</body>
+</html>
