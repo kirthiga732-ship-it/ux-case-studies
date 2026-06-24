@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Landing Page UI Design</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="card">
+
+    <div class="header">
+        <div class="number">2</div>
+        <h1>Website Landing Page UI Design</h1>
+    </div>
+
+    <div class="content">
+
+        <h2>Goal</h2>
+        <p>Design a conversion-focused landing page for a product or service.</p>
+
+        <h2>Requirements</h2>
+        <ul>
+            <li>Wireframe + high-fidelity mockup (desktop & mobile)</li>
+            <li>Design hero section, features, testimonials, and CTA</li>
+            <li>Color palette, typography choices, and component specs</li>
+        </ul>
+
+        <h2>Deliverables</h2>
+        <ol>
+            <li>Design files (Figma/XD) and exported PNGs</li>
+            <li>Short design rationale</li>
+        </ol>
+
+    </div>
+
+</div>
+
+</body>
+</html>
